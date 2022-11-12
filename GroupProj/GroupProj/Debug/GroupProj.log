@@ -1,0 +1,22 @@
+﻿  Main.cpp
+C:\GP\SFML\sfml code\GroupProj\GroupProj\Main.cpp(16,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GP\SFML\sfml code\GroupProj\GroupProj\Main.cpp(17,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GP\SFML\sfml code\GroupProj\GroupProj\Main.cpp(19,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GP\SFML\sfml code\GroupProj\GroupProj\Main.cpp(19,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GroupProj.vcxproj -> C:\GP\SFML\sfml code\GroupProj\Debug\GroupProj.exe
